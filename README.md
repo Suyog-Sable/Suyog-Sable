@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Suyog Sable</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hey!+I'm+Suyog+Sable;Full-Stack+Developer+%F0%9F%92%BB;Node.js+%7C+MongoDB+%7C+React+%7C+Express;I+build+cool+and+clean+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
